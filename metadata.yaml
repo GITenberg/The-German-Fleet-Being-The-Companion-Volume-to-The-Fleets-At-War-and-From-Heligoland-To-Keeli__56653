@@ -1,5 +1,8 @@
 _repo: The-German-Fleet-Being-The-Companion-Volume-to-The-Fleets-At-War-and-From-Heligoland-To-Keeli__56653
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56653-h/images/cover.jpg
 creator:
   author:
     agent_name: Hurd, Archibald
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '44208'
     url: http://www.gutenberg.org/2009/agents/44208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56653#The-German-Fleet-Being-The-Companion-Volume-to-The-Fleets-At-War-and-From-Heligoland-To-Keeli_
 gutenberg_issued: '2018-02-27'
 gutenberg_type: Text
 identifiers:
